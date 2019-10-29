@@ -4,6 +4,7 @@ package ru.dionisis.homework1.helloworld.Main;
  * this is a minimal java program
  */
 public class HelloWorld {
+    // comment1
     // comment 2
 
     public static void main(String[] args) {
