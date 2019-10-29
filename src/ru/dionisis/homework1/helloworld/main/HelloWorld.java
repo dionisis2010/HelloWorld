@@ -1,11 +1,9 @@
-package ru.dionisis.homework1.helloworld.Main;
+package ru.dionisis.homework1.helloworld.main;
 
 /**
  * this is a minimal java program
  */
 public class HelloWorld {
-    // comment1
-    // comment 2
 
     public static void main(String[] args) {
         System.out.println("Hello, world!");
