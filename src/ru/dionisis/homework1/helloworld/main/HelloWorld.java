@@ -1,4 +1,4 @@
-package ru.dionisis.homework1.helloworld.Main;
+package ru.dionisis.homework1.helloworld.main;
 
 /**
  * this is a minimal java program
