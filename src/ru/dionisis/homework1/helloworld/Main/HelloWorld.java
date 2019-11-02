@@ -4,17 +4,16 @@ package ru.dionisis.homework1.helloworld.Main;
  * this is a minimal java program
  */
 public class HelloWorld {
-    String name;
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public static void main(String[] args) {
+//        A a= new A();
+//        B b = new B();
+//        System.out.println(a instanceof A);
         System.out.println("Hello, world!");
     }
 }
+//class A {
+//
+//}
+//class B extends A{
+//
+//}
